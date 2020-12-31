@@ -1,1 +1,2 @@
-# Classic_Machine_Learning
+# All Coursera courses
+Applied Data Science with Python Specialization
